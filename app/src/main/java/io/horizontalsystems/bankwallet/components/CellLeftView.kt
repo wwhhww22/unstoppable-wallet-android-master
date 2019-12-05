@@ -74,3 +74,5 @@ class CellLeftView : ConstraintLayout {
         cellSubtitle.visibility = View.GONE
     }
 }
+
+// some changes to commit 

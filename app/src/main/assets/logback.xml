@@ -12,3 +12,5 @@
         <appender-ref ref="logcat"/>
     </root>
 </configuration>
+
+//  some changes to commit

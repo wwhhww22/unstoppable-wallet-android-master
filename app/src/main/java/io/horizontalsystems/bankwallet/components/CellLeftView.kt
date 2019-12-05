@@ -75,4 +75,4 @@ class CellLeftView : ConstraintLayout {
     }
 }
 
-// some changes to commit 
+// some changes to commit
